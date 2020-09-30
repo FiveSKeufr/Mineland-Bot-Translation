@@ -1,1 +1,33 @@
-{}
+{
+  "MainLang": "EN",
+
+  "UnknownLanguage_Main": "\\*\\*ENGLISH\\*\\*» Language",
+  "UnknownLanguage_Description": "Please specify in which __language__ would you like the frequently asked question to be in:\\n`en` | `ru` \\*(\\*\\*[+faq en <Frequently Asked Questions>](https://mineland.net)\\*\\*)\\*",
+
+  "UnknownFAQ_Main": "\\*\\*NOTICE\\*\\*",
+  "UnknownFAQ_Description": "\\*\\*ENGLISH\\*\\*» \\*\\*:warning: |\\*\\* Could not find the frequently asked question you asked for.",
+
+  "FAQ_password_Main": "FAQ » PASSWORD",
+  "FAQ_password_Description": "PASSWORD » **Linked Email**\\nYou are able to change your password with a simple command which will be sent to your EMAIL that was __linked__ to your account\nCommand: /changepass\n\nPASSWORD » **UnLinked Email**\nSince you do not have a linked email you will have to make extra steps\n1) Direct Message sasha18#2427 asking a password request\n2) Wait till sasha18#2427 replies to you with the questions to confirm you are the account owner\n3) Respond to the questions and be honest and be patient as this may take some time to proceed.",
+
+  "FAQ_links_Main": "FAQ » LINKS",
+  "FAQ_links_Description": "LINKS » Forums\n__ENGLISH__ Forums: [https://forum.mineland.net/en](https://forum.mineland.net/en)\n__RUSSIAN__ Forums: [https://forum.mineland.net/ru](https://forum.mineland.net/ru)\n\nLINKS » Store\n__ENGLISH__ Store: [https://mineland.net/store](https://mineland.net/store)\n__RUSSIAN__ Store: [https://mineland.net/store](https://mineland.net/store)\n\nLINKS » Discord\n__ENGLISH__ Discord: [https://mineland.me/english](https://mineland.me/english)\n__RUSSIAN__ Discord: [https://mineland.me/russian](https://mineland.me/russian)",
+
+  "FAQ_banned_Main": "FAQ » BANNED",
+  "FAQ_banned_Description": "BANNED » Information\nEveryone makes mistakes and in such cases, if you believe that your ban is indeed a false ban, you may try and ban appeal. We review your ban and the proof provided by either the community or the moderate that punished you. If you have been false banned you will be unbanned, however, if you have not been false banned you will **NOT** be unbanned.\n\nBAN APPEAL » English Forums: [https://forum.mineland.net/en/index.php?forums/ban-appeals.15/](https://forum.mineland.net/en/index.php?forums/ban-appeals.15/) [**LOGIN: REQUIRED**]\nBAN APPEAL » Russian Forums: []() [**LOGIN: REQUIRED**]\n*please do not post on both forums as this might get you denied, please do not double post or post twice as our answers are final*",
+
+  "FAQ_version_Main": "FAQ » VERSION",
+  "FAQ_version_Description": "VERSION » Information\nOur main server version is based on 1.12.2 and we recommend the usage of a legit client with that specific version as other version may lead to false positive ( lag back, kicks, etc. ).\nThis is a common issue and is being worked on by the mineland developer team on both bug fixes and anti-cheat which is being improved, although if you wish to help us out with the anti-cheat part, we recommend you to send us a message on our [VK](https://vk.me/mineland_dev) which includes a screenshot of the kick message, your in-game name and the reason that was provided to you.",
+
+  "FAQ_report_Main": "FAQ » REPORT",
+  "FAQ_report_Description": "REPORT » Rule Breaker\nIn-Game » For fast reports ( chat violation ) we recommend you to report them using our report command\nCommand: /report\nForums » For slow reports, which may take time and you have video proof ( dupes, hacked client, etc. )\n\nREPORT » Bug\nGitlab » Report all type of bugs on our gitlab\nLink » [https://gitlab.com/mineland-community/mineland-english](https://gitlab.com/mineland-community/mineland-english)",
+
+  "FAQ_apply_Main": "FAQ » APPLICATION",
+  "FAQ_apply_Description": "Have you ever wanted to see how the system works behind a big community? We can give you the chance to do so!\n\n If you think you are ready and have the willingness to apply, then write a well-written application [here](https://forms.gle/91RmA9Jrrct7hatU7) \n\nBreaking any of these rules will result in an automatic denial without notice. \n-Do not apply if you are less than 14 years old.\n-Any lies within the answers results in an instant denial/removal of the application/rank.\n-If you were banned at any time during the past 1 month, do not apply.\n-If you get banned while having an application open, your app will be denied.\n-Do not have more than 1 application open at a time.\n-Bugging a staff member about your application, be it Server, Forums, Discord or elsewhere will result in an automatic denial\n-Your application will be denied if you are inactive on the forums or server for more than 1 month.",
+
+  "FAQ_mods_Main": "FAQ » ALLOWED MODIFICATIONS",
+  "FAQ_mods_Description": "ALLOWED MODIFICATIONS » Information\nThe following list is made by the administrator team with the help of the community to provide everyone a fair advantage.\n*NOTICE* » *Texture Packs that provide you an unfair advantage ( e.g: X-Ray, etc. ) are considered against our server rules.*\nEnglish Forums » [https://forum.mineland.net/en/index.php?threads/allowed-modifications.7/#post-9](https://forum.mineland.net/en/index.php?threads/allowed-modifications.7/#post-9)",
+
+  "FAQ_refresh_Main": "FAQ » ISSUE NOTIFICATION",
+  "FAQ_refresh_Description": "ISSUE NOTIFICATION » Information\nIt seems like you are encouraging an issue on our server which is quite common and being worked on by the mineland developers.\n\nISSUE NOTIFICATION » Solution\nTo solve this issue, currently, we recommend you following these steps:\n- Add Mineland IP to your server list\n- Refresh a couple of times\n- Please wait a few minutes and try joining again\nThis normally fixes the issue, however it might require extra steps ( as in, you will need to redo refresh again and again or check your internet ) to work."
+}
