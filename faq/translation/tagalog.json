@@ -1,0 +1,31 @@
+{
+  "MainLang": "TL",
+
+  "UnknownLanguage_Main": "\\*\\*TAGALOG\\*\\*» Language",
+  "UnknownLanguage_Description": "Tukuyin kung anong __wika__ yung palaging tinatong na mga tanong ang gusto mong maging\\n`en` | `ru` \\*(\\*\\*[+faq tl <Palaging Tinatanong na mga tanong>](https://mineland.net)\\*\\*)\\*",
+
+  "UnknownFAQ_Main": "\\*\\*NOTICE\\*\\*",
+  "UnknownFAQ_Description": "\\*\\*TAGALOG\\*\\*» \\*\\*:warning: |\\*\\* Hindi makita ang palaging tinatanong na mga tanong na gusto mo makita.",
+
+  "FAQ_password_Main": "FAQ » PASSWORD",
+  "FAQ_password_Description": "PASSWORD » **Linked Email**\n\nMaaari mong mapalitan ang iyong password gamit ang simpleng command na ibibigay sa iyong email na naka-link sa iyong account. \nCommand: /changepass\n\nPASSWORD » UnLinked Email\n nDahil wala kang naka-link na email kailangan mo pang gumawa nang iba pang hakbang. \n1) Mag-send ka nang Direct Message kay sasha18#2427 at mag-request nang bagong password\n2) Maghintay lamang sa reply ni sasha18#2427 na naglalaman ng mga tanong kung ikaw nga ba ang may-ari nang account\n3) Sumagot ka sa mga tanong at wag magsingunaling, maging mahinahon at maghintay na ma-proceso ang sagot mo.
+  "FAQ_links_Main": "FAQ » LINKS",
+  "FAQ_links_Description": "LINKS » Forums\n\n__ENGLISH__ Forums: [https://forum.mineland.net/en](https://forum.mineland.net/en)\n__RUSSIAN__ Forums: [https://forum.mineland.net/ru](https://forum.mineland.net/ru)\n\nLINKS » Store\n__ENGLISH__ Store: [https://mineland.net/store](https://mineland.net/store)\n__RUSSIAN__ Store: [https://mineland.net/store](https://mineland.net/store)\n\nLINKS » Discord\n__ENGLISH__ Discord: [https://mineland.me/english](https://mineland.me/english)\n__RUSSIAN__ Discord: [https://mineland.me/russian](https://mineland.me/russian)",
+
+  "FAQ_banned_Main": "FAQ » BANNED",
+  "FAQ_banned_Description": "BANNED » Information\n\nLahat ay gumagawa nagiging mali at sa ganitong sitwasyon, kung sa tingin mo na-ban ka sa pagkamali, pwede ka mag-try na mag-appeal. Titignan naman yung ban at ang ebidensya na nakuha namin sa komunidad o sa moderator na nagparusa sayo. Kung mali ang ban sayo makukuha ka nang unban, pero, pag hindi mali ang ban na nakuha mo **HINDI** ka makukuha nang unban.\n\nBAN APPEAL » English Forums: [https://forum.mineland.net/en/index.php?forums/ban-appeals.15/](https://forum.mineland.net/en/index.php?forums/ban-appeals.15/) [**LOGIN: REQUIRED**]\nBAN APPEAL » Russian Forums: []() [**LOGIN: REQUIRED**]\n*wag mag-post nang appeal sa dalawang forums dahil matatanggihan eto, wag rin gumawa nang maraming posts o mag-post nang isa pang beses dahil huli na ang desisyon namin*",
+
+  "FAQ_version_Main": "FAQ » VERSION",
+  "FAQ_version_Description": "VERSION » Information\n\nAng version nang server ay nakabatay sa 1.12.2 at inirerekumenda namin ang gamit nang legit na client gamit nang tiyak na version nayun dahil yung ibang version pwede magkaroon nang maling positibo ( lag back, kicks, at iba pa. ).\nKaraniwang problema eto at pinagaayos na neto nang developer team nang mineland on sa paayos nang bugs at pag-improva nang anti-cheat, paggusto nyo po tumulong sa pagayos nang anti-cheat, inenerekomenda namin na i-message mo kami sa aming [VK](https://vk.me/mineland_dev) kasama ang screenshot nang kick message, at yong in-game name at dahilan na binigay sayo.",
+
+  "FAQ_report_Main": "FAQ » REPORT",
+  "FAQ_report_Description": "REPORT » Rule Breaker\n\nIn-Game » Sa mga mabilis na report ( chat violation ) irerecommend namin na i-report sila gaming nang aming report command\nCommand: /report\nForums » Para sa mabagal na reports, na kailangan bigyan nang oras at ebidensya ( dupes, hacked client, at iba pa. )\n\nREPORT » Bug\nGitlab » I-report ang iba't-ibang klaseng bugs sa aming gitlab\nLink » [https://gitlab.com/mineland-community/mineland-english](https://gitlab.com/mineland-community/mineland-english)",
+
+  "FAQ_apply_Main": "FAQ » APPLICATION",
+  "FAQ_apply_Description": "Gusto mong makita ang sistema sa aming malaking komunidad? Pwede namin ikaw bigayan nang chancesa na gawin yun!\n\n Kung tingin mo na kaya mo and payag kana mag-apply, mag-sulat ka nang maayos na application [dito](https://forms.gle/91RmA9Jrrct7hatU7) \n\nPagsisira nang kahit anong tuntunin ay resulta sa automatic na pagtanggi na walang abiso. \n-Wag kang mag-apply kung masbata kapa nang 14 na taon.\n-Kahit anong kasinungalingan sa mga sagot ay resulta sa instant na pagtanggi/tanggal nang application/ranggo.\n-Pag na-banned ka sa kahit anong noong isang buwam, wag kang mag-apply.\n-Pag na-banned ka hanggang merong application na nakabukas, yung app mo ay itatanggi.\n-Wag kang makaroon nang masmarami pa sa isang application na nakabukas sa isang buwan.\n-Pag isturbo nang staff member tungkol sa application, kahit sa Server, Forums, Discord o kahit saan ay resulta na automatic na pagtanggi\n-Ang iyong application ay iitanggi pag ikaw ay hindi actibo sa forums o server lampas nang isang buwan.",
+
+  "FAQ_mods_Main": "FAQ » ALLOWED MODIFICATIONS",
+  "FAQ_mods_Description": "ALLOWED MODIFICATIONS » Information\n\nAng listahan na makikita ay gawa ng administrasyon sa tulong na komunidad upang masiguro na pantay ang bawat manlalaro. \nNOTICE » Ang mga texture packs na nagdudulot ng hindi patas na kalamangan (halimbawa: x-ray at iba pa.) ay hindi pinapayagan ng panuntunan ng server.*\nEnglish Forums » [https://forum.mineland.net/en/index.php?threads/allowed-modifications.7/#post-9](https://forum.mineland.net/en/index.php?threads/allowed-modifications.7/#post-9)",
+
+  "FAQ_refresh_Main": "FAQ » ISSUE NOTIFICATION",
+  "FAQ_refresh_Description": "ISSUE NOTIFICATION » Information\n\nMukhang ang isyu sa server na iyong naranasan ay madalas na nangyayari at kasalukuyang inaayos ng mga developer ng Mineland. \n\nISSUE NOTIFICATION » Solution\n Para maayos ang isyu na ito, para sa ngayon, inaabisuhan naming kayo na sundin ang mga sumusunod na hakbang. :\n- I-add ang Mineland IP sa iyong server list \n – Mag-refresh ng ilang beses. \n- Maghintay ng ilang minute at subukang sumali ulit. \n Madalas ay naayos nito ang problema, ngunit baka mangailangan pa ng iba pang hakbang (pagrefresh muli at pagcheck ng internet) upang gumana.
